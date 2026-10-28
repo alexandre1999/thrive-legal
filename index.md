@@ -3,7 +3,7 @@ title: Thrive
 permalink: /
 ---
 
-Thrive is made by Dineri (Alexandre Martins). Contact: management@dineri.info
+Everything about how Thrive handles your data and your account. Questions? Write to [management@dineri.info](mailto:management@dineri.info).
 
 - [Privacy Policy](privacy/)
 - [Terms of Service](terms/)
