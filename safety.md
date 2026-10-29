@@ -34,6 +34,20 @@ Any conduct that threatens personal or public safety, including violence, stalki
 
 Sexual conduct with another person without that person's consent violates this policy, and it is a crime. It can lead to criminal prosecution and civil liability, entirely separately from anything we do about the account. Consent cannot be given by someone who is incapacitated, and it can be withdrawn at any point.
 
+## Child sexual abuse and exploitation
+
+Thrive has zero tolerance for child sexual abuse and exploitation (CSAE). Any content, conduct or contact that sexualises, grooms, exploits or endangers a child is forbidden, and that includes child sexual abuse material (CSAM) of any kind, real or generated, and any attempt to contact, meet or obtain images of someone under 18.
+
+Thrive is for adults only. Anyone under 18 is not allowed on the app, and an account we believe belongs to a child is removed.
+
+Report it in the app with "Child safety (may be under 18)" — on a profile, a chat, a message, a photo or a player — or write to us at management@dineri.info. Every report is read by a person.
+
+When we find or are told about CSAE, we remove the content and ban the account immediately, keep what is needed as evidence, and report it to the relevant authorities: the National Center for Missing & Exploited Children (NCMEC) in the United States and the police or competent national authority in the country concerned, including in Portugal and elsewhere in the EU. We cooperate with law enforcement requests made under the law.
+
+If a child is in immediate danger, call your local emergency number first. You can also report child sexual abuse material directly to NCMEC at report.cybertip.org, or to the hotline in your country listed at inhope.org.
+
+Our designated contact for child safety, including questions about how we prevent and respond to CSAM, is management@dineri.info.
+
 ## Background checks: we do not do them
 
 Thrive does not run criminal background checks, identity verification, or screening of any kind on members, and we do not exclude people on the basis of criminal convictions. We are telling you this plainly because you should know it when deciding how much to trust someone here.
