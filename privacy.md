@@ -3,8 +3,7 @@ title: Privacy Policy
 permalink: /privacy/
 ---
 
-
-_Last updated 28 October 2026_
+_Last updated 8 November 2026_
 
 Thrive is a social app for playing games with people you know and meeting people nearby. Doing that means holding some genuinely personal things about you: where you are, photos you take, recordings of your voice, and what you say to other people.
 
@@ -71,6 +70,8 @@ Google Workspace sends our emails — the code to confirm your email or reset yo
 Apple and Google take every payment in the app. RevenueCat keeps track of which subscriptions and purchases are active, on servers in the United States; it receives a random account id, what you bought and when, and never your name, email or card.
 
 If you sign in with Google or Apple, they confirm who you are to us. That is between you and them under their own terms; we receive only your name, email address and an id.
+
+When you search for a place — the Where of a plan, or a city in Explore — what you type is sent to OpenStreetMap search services (Nominatim, run by the OpenStreetMap Foundation, and Photon, run by komoot), along with a rough area to search near. They receive the words and that area, not who you are. Place data © OpenStreetMap contributors, available under the Open Database License (openstreetmap.org/copyright).
 
 PostHog hosts our crash reporting and usage analytics, on servers in the European Union. In the UK, the EEA and Switzerland it is switched off until you say yes: nothing reaches PostHog unless you have given permission, which we ask for once and which you can change at any time in Profile → Privacy.
 

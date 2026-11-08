@@ -3,8 +3,7 @@ title: Terms of Service
 permalink: /terms/
 ---
 
-
-_Last updated 28 October 2026_
+_Last updated 8 November 2026_
 
 These terms are the agreement between you and Thrive. By creating an account you accept them.
 

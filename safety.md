@@ -3,8 +3,7 @@ title: Safety Policy
 permalink: /safety/
 ---
 
-
-_Last updated 28 October 2026_
+_Last updated 8 November 2026_
 
 Thrive puts you in a room with people you do not know — in games, at venues, on plans, and in Connect. Most of the time that is the point. This page is about the times it is not.
 
