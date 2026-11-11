@@ -5,7 +5,7 @@ permalink: /privacy/
 
 _Last updated 8 November 2026_
 
-Thrive is a social app for playing games with people you know and meeting people nearby. Doing that means holding some genuinely personal things about you: where you are, photos you take, recordings of your voice, and what you say to other people.
+MYTUS is a social app for playing games with people you know and meeting people nearby. Doing that means holding some genuinely personal things about you: where you are, photos you take, recordings of your voice, and what you say to other people.
 
 This policy says exactly what we hold, who can see it, what leaves our systems, and how to get rid of it. It describes the app as it is built, not as a general statement of intent.
 
@@ -25,11 +25,11 @@ Voice recordings, if you record a weekly reflection by speaking instead of writi
 
 Your steps, only while you run a Running Challenge. The app reads your phone's own step count from when you start (Apple's motion data on iPhone, Health Connect on Android) and turns it into a distance. Only that distance is sent, to the others in the game; the step count itself stays on your phone.
 
-What you buy. If you subscribe to Thrive+ or buy something in the app, a record of it: which plan or item, when, and whether it is active. Apple or Google take the payment; we never see your card.
+What you buy. If you subscribe to MYTUS+ or buy something in the app, a record of it: which plan or item, when, and whether it is active. Apple or Google take the payment; we never see your card.
 
 What you write. Messages to other people, messages to the in-app coach, your weekly reflections, answers you give in games, quiz questions you write as an organiser, and feedback or reports you send us.
 
-How you use the app. Which games you played and when, your Thrive Score and the events behind it, and your notification preferences. We do not use advertising identifiers and we do not track you across other apps or websites.
+How you use the app. Which games you played and when, your MYTUS Score and the events behind it, and your notification preferences. We do not use advertising identifiers and we do not track you across other apps or websites.
 
 Your device's push token, once you allow notifications, so we can send you one.
 
@@ -77,7 +77,7 @@ PostHog hosts our crash reporting and usage analytics, on servers in the Europea
 
 If you allow it, PostHog receives crash and error reports — the error and its technical trace, which screen you were on, your app version, your platform and OS version — plus which screens you open as you move around the app. It identifies your device by a random id its own library generates. It does not receive your account id, your name, your email, your messages, your reflections, your photos or your location.
 
-We do not record your screen. Thrive has no session-replay or screen-recording feature of any kind. If that ever changes we will say so here before it is switched on.
+We do not record your screen. MYTUS has no session-replay or screen-recording feature of any kind. If that ever changes we will say so here before it is switched on.
 
 Separately, and whether or not you allow PostHog, we keep our own crash log and a short list of product events in our own database: a game started or finished, a session created or joined, onboarding completed, the content rating changed, the paywall opened. These never leave Supabase and are never sent to PostHog or anyone else. They are how we tell a quiet launch from a broken one, and they are why refusing PostHog costs you nothing.
 
@@ -109,9 +109,9 @@ You can see and change everything we hold about you in the app, and export or co
 
 ## Age
 
-Thrive is for adults only. You must be 18 or over, and we check twice: sign-up asks for your date of birth and refuses an account under 18, and we also ask your phone — Apple or Google — which age band your account is in. We receive a band and how it was established, never your identity documents, and we never see a date of birth from them. If your phone reports the account as under 18 we will not let sign-up finish, whatever was typed. If your phone cannot answer — an older operating system, no account signed in, or you decline — you can still sign up on the date of birth you gave, and we record that the check was not available.
+MYTUS is for adults only. You must be 18 or over, and we check twice: sign-up asks for your date of birth and refuses an account under 18, and we also ask your phone — Apple or Google — which age band your account is in. We receive a band and how it was established, never your identity documents, and we never see a date of birth from them. If your phone reports the account as under 18 we will not let sign-up finish, whatever was typed. If your phone cannot answer — an older operating system, no account signed in, or you decline — you can still sign up on the date of birth you gave, and we record that the check was not available.
 
-Because every user is an adult, the two content levels a host can pick — Easygoing and Spicy — describe how spicy the game prompts get, not who is allowed to play. Connect will not match anyone whose age we do not hold on record. We do not knowingly collect anything from children. If you believe a child is using Thrive, write to us and we will remove the account.
+Because every user is an adult, the two content levels a host can pick — Easygoing and Spicy — describe how spicy the game prompts get, not who is allowed to play. Connect will not match anyone whose age we do not hold on record. We do not knowingly collect anything from children. If you believe a child is using MYTUS, write to us and we will remove the account.
 
 ## Security, and its limits
 

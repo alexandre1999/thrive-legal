@@ -1,9 +1,9 @@
 ---
-title: Delete your Thrive account
+title: Delete your MYTUS account
 permalink: /delete-account/
 ---
 
-Thrive is made by Dineri (Alexandre Martins). You can delete your Thrive account and its data at any time.
+MYTUS is made by Dineri (Alexandre Martins). You can delete your MYTUS account and its data at any time.
 
 ## In the app
 
@@ -11,7 +11,7 @@ Open **Profile → Settings → Delete account** and confirm. The deletion happe
 
 ## Without the app
 
-Email **management@dineri.info** from the address you signed up with, with the subject **"Delete my Thrive account"**. We delete the account within 30 days and reply to confirm. If you signed up with Apple's "Hide my email", write from that Apple account, or tell us the relay address.
+Email **management@dineri.info** from the address you signed up with, with the subject **"Delete my MYTUS account"**. We delete the account within 30 days and reply to confirm. If you signed up with Apple's "Hide my email", write from that Apple account, or tell us the relay address.
 
 ## What is deleted
 

@@ -5,7 +5,7 @@ permalink: /safety/
 
 _Last updated 8 November 2026_
 
-Thrive puts you in a room with people you do not know — in games, at venues, on plans, and in Connect. Most of the time that is the point. This page is about the times it is not.
+MYTUS puts you in a room with people you do not know — in games, at venues, on plans, and in Connect. Most of the time that is the point. This page is about the times it is not.
 
 It covers how to report someone, what we do about it, how to look after yourself online and when meeting in person, how to spot a romance scam, and where to get help. It is also our safety policy for the purposes of Connecticut Public Act 23-56 and the Colorado Online Dating Services Safety Act.
 
@@ -35,9 +35,9 @@ Sexual conduct with another person without that person's consent violates this p
 
 ## Child sexual abuse and exploitation
 
-Thrive has zero tolerance for child sexual abuse and exploitation (CSAE). Any content, conduct or contact that sexualises, grooms, exploits or endangers a child is forbidden, and that includes child sexual abuse material (CSAM) of any kind, real or generated, and any attempt to contact, meet or obtain images of someone under 18.
+MYTUS has zero tolerance for child sexual abuse and exploitation (CSAE). Any content, conduct or contact that sexualises, grooms, exploits or endangers a child is forbidden, and that includes child sexual abuse material (CSAM) of any kind, real or generated, and any attempt to contact, meet or obtain images of someone under 18.
 
-Thrive is for adults only. Anyone under 18 is not allowed on the app, and an account we believe belongs to a child is removed.
+MYTUS is for adults only. Anyone under 18 is not allowed on the app, and an account we believe belongs to a child is removed.
 
 Report it in the app with "Child safety (may be under 18)" — on a profile, a chat, a message, a photo or a player — or write to us at management@dineri.info. Every report is read by a person.
 
@@ -49,11 +49,11 @@ Our designated contact for child safety, including questions about how we preven
 
 ## Background checks: we do not do them
 
-Thrive does not run criminal background checks, identity verification, or screening of any kind on members, and we do not exclude people on the basis of criminal convictions. We are telling you this plainly because you should know it when deciding how much to trust someone here.
+MYTUS does not run criminal background checks, identity verification, or screening of any kind on members, and we do not exclude people on the basis of criminal convictions. We are telling you this plainly because you should know it when deciding how much to trust someone here.
 
 What we do check is age: sign-up asks for your date of birth and refuses an account under 18, and we also ask your phone — Apple or Google — which age band your account is in. If your phone reports the account as under 18 we will not let sign-up finish.
 
-Nobody on Thrive has been vetted. Treat everyone here as a stranger until you have your own reasons not to.
+Nobody on MYTUS has been vetted. Treat everyone here as a stranger until you have your own reasons not to.
 
 ## Staying safe while you are talking
 
@@ -75,7 +75,7 @@ Tell somebody where you are going, who with, and when you expect to be back. Sen
 
 Keep your drink with you, and order it yourself. Expect to pay your own way so that nothing feels owed.
 
-Stay sober enough to make decisions and to leave. Thrive has drinking games and venue nights in it; none of that is a reason to be somewhere you cannot get out of.
+Stay sober enough to make decisions and to leave. MYTUS has drinking games and venue nights in it; none of that is a reason to be somewhere you cannot get out of.
 
 Leave whenever you want, for any reason or none. If leaving feels difficult, tell staff at the venue — bars and clubs deal with this regularly and would far rather help.
 
@@ -115,11 +115,11 @@ European Union. Victim support line 116 006, and women's helpline 116 016. Both 
 
 Anywhere else. findahelpline.com lists verified crisis and support lines in around 130 countries.
 
-These are independent organisations, not part of Thrive. We do not see that you contacted them.
+These are independent organisations, not part of MYTUS. We do not see that you contacted them.
 
 ## What we do to make this safer
 
-Thrive is for over-18s, and that is enforced rather than asked: sign-up refuses a date of birth under 18, the date cannot be changed afterwards by the account holder, and we check the age band your phone reports. Connect will not match anyone whose age we do not hold.
+MYTUS is for over-18s, and that is enforced rather than asked: sign-up refuses a date of birth under 18, the date cannot be changed afterwards by the account holder, and we check the age band your phone reports. Connect will not match anyone whose age we do not hold.
 
 Block and report are available on every surface where you can encounter someone you do not know, and blocking is enforced on the server — in matching, in messaging, in plan chats, and in Bar / Club pairing.
 
@@ -137,7 +137,7 @@ We do not sell your data, we do not share it with advertisers, and there is no a
 
 ## About this policy
 
-This policy forms part of our Terms of Service, and applies to everyone using Thrive anywhere in the world.
+This policy forms part of our Terms of Service, and applies to everyone using MYTUS anywhere in the world.
 
 It is published here, in the app under Profile → Safety, and on the web alongside our Privacy Policy and Terms.
 
